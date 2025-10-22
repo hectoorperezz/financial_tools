@@ -1,0 +1,14 @@
+# SEC Filing Extractor Requirements
+
+# HTTP requests with retry support
+requests>=2.31.0
+
+# URL handling and retry logic
+urllib3>=2.0.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.4.0
